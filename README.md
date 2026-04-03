@@ -1,9 +1,30 @@
-# Cricket-Playing-XI-Dashboard
-A dynamic and interactive dashboard for selecting and analyzing the playing XI for cricket matches. This tool allows users to build, customize, and evaluate cricket lineups, making it easy to compare player stats, strengths, and roles to create the most effective team composition.
+# 🏏 Cricket Playing XI Dashboard
 
-Features
-Player Selection: Add players to the playing XI based on performance, roles, and recent form.
-Statistics Overview: View detailed stats for each player, including batting, bowling, and fielding metrics.
-Role-Based Filtering: Filter players by roles (batsman, bowler, all-rounder, wicket-keeper) for a balanced team lineup.
-Performance Insights: Visualize player stats and recent performance trends for better decision-making.
-Customizable Lineup: Experiment with different team combinations to find the best strategy for any match.
+A dynamic and interactive **Power BI dashboard** for selecting and analyzing the best Playing XI for cricket matches. This project helps users evaluate player performance and build an optimized team using data-driven insights.
+
+---
+
+## 🚀 Features
+
+- **Player Selection:** Choose players based on performance, role, and recent form  
+- **Statistics Overview:** View batting, bowling, and all-round performance  
+- **Role-Based Filtering:** Filter players (Batsman, Bowler, All-Rounder, Wicket-Keeper)  
+- **Performance Insights:** Analyze trends using interactive visuals  
+- **Customizable Lineup:** Create and test different team combinations  
+
+---
+
+## 📊 Dashboard Screenshots
+
+
+
+## 🛠️ Tools & Technologies Used
+
+- Power BI  
+- MySQL (for data storage)  
+- DAX (Data Analysis Expressions)  
+- Excel / CSV Dataset  
+
+---
+
+## 📂 Project Structure
